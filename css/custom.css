@@ -1,0 +1,25 @@
+pre {
+    display: inline;
+    margin: 0;
+}
+
+
+@media (min-width: 576px) {
+    .img-fluid-larger {
+        max-width: 120%;
+        margin-left: -10%;
+    }
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.bottom-cutoff {
+    margin-bottom: -50px;
+}
+
+.title {
+    font-weight: 300 !important;
+    font-style: italic;
+}
