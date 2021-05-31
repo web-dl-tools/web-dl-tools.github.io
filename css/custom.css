@@ -3,7 +3,6 @@ pre {
     margin: 0;
 }
 
-
 @media (min-width: 576px) {
     .img-fluid-larger {
         max-width: 120%;
@@ -22,4 +21,8 @@ pre {
 .title {
     font-weight: 300 !important;
     font-style: italic;
+}
+
+.border-radius {
+    border-radius: 4px;
 }
